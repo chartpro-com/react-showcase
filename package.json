@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "",
+  "engines": {
+    "node": "16.20.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
