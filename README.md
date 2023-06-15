@@ -24,7 +24,7 @@ In order to install, git clone the repository here at https://github.com/chartpr
 
 The project can be used by potential employers.
 
-Link to Demo: https://hidden-temple-56025-207639347bfa.herokuapp.com/#/
+Link to App: https://hidden-temple-56025-207639347bfa.herokuapp.com/#/
 
 ## Contributing
 
