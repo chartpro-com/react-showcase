@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Portrait from "../../assets/images/profile-pic-2.jpg";
+import Portrait from "../../assets/images/myProfile.jpg";
 
 function Home() {
   return (
