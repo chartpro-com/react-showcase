@@ -3,7 +3,7 @@ import React from "react";
 import PlaceHolderOne from "../../assets/images/placeholder.png";
 import PlaceHolderTwo from "../../assets/images/placeholder.png";
 import PlaceHolderThree from "../../assets/images/placeholder.png";
-import WeatherTrack from "../../assets/images/weather.png";
+import WeatherTrack from "../../assets/images/oddjobs.png";
 import GigGuide from "../../assets/images/gigguide.png";
 import HealthHive from "../../assets/images/heathhive.png";
 
@@ -41,12 +41,12 @@ function Portfolio() {
 
         <div class="col">
           <div class="card">
-            <img src={WeatherTrack} alt="Final Project" class="card-img-top" />
+            <img src={OddJobs} alt="Final Project" class="card-img-top" />
             <div class="card-body">
-              <a href="https://chartpro-com.github.io/weather-dashboard/" target="_blank" rel="noreferrer">
+              <a href="https://github.com/JacobRubino/OddJobs" target="_blank" rel="noreferrer">
                 <button>website</button>
               </a>
-              <a href="https://github.com/chartpro-com/weather-dashboard" target="_blank" rel="noreferrer">
+              <a href="https://github.com/JacobRubino/OddJobs" target="_blank" rel="noreferrer">
                 <button>github</button>
               </a>
             </div>
