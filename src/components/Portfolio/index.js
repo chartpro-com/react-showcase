@@ -43,7 +43,7 @@ function Portfolio() {
           <div class="card">
             <img src={OddJobs} alt="Final Project" class="card-img-top" />
             <div class="card-body">
-              <a href="https://github.com/JacobRubino/OddJobs" target="_blank" rel="noreferrer">
+              <a href="https://odd-jobs-f138ae74eee7.herokuapp.com" target="_blank" rel="noreferrer">
                 <button>website</button>
               </a>
               <a href="https://github.com/JacobRubino/OddJobs" target="_blank" rel="noreferrer">
