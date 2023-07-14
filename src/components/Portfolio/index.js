@@ -3,7 +3,7 @@ import React from "react";
 import PlaceHolderOne from "../../assets/images/placeholder.png";
 import PlaceHolderTwo from "../../assets/images/placeholder.png";
 import PlaceHolderThree from "../../assets/images/placeholder.png";
-import WeatherTrack from "../../assets/images/oddjobs.png";
+import OddJobs from "../../assets/images/oddjobs.png";
 import GigGuide from "../../assets/images/gigguide.png";
 import HealthHive from "../../assets/images/heathhive.png";
 
